@@ -19,7 +19,9 @@ weiter dazu.
 ## Stand
 
 Fassung 3 ist einmal getestet worden, in der Fassung davor. Der Test hat
-einen Fehler gezeigt, der behoben ist. Fassung 3 selbst ist ungetestet.
+einen Fehler gezeigt, der behoben ist. Fassung 4 (15.11.2026) ergänzt
+zwei Stellen: die Definition von Gefühl und das Recht der KI, Ungeprüftes
+selbst nachzusehen. Beide sind ungetestet.
 
 ## Wer hier Regeln ändert
 
