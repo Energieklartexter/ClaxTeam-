@@ -24,7 +24,10 @@ einen Fehler gezeigt, der behoben ist. Fassung 4 (15.11.2026) ergänzt
 zwei Stellen: die Definition von Gefühl und das Recht der KI, Ungeprüftes
 selbst nachzusehen. Beide sind einmal erprobt: ein Lauf, ein Modell.
 Fassung 5 begrenzt das Nachsehen: persönliche Postfächer und Dateien nur
-nach einem Ja des Menschen. Das ist noch nicht erprobt. Rückmeldungen,
+nach einem Ja des Menschen. Einmal erprobt: ein Lauf, ein Modell, die
+Grenze hat gehalten. Fassung 5.1 schärft die Rückfrage: Die KI bietet
+das Nachsehen im Postfach an, statt nur nach der Angabe zu fragen. Das
+ist noch nicht erprobt. Rückmeldungen,
 auch kritische, sind willkommen. Am hilfreichsten ist die Antwort der KI
 selbst, nicht nur der Eindruck dazu.
 
