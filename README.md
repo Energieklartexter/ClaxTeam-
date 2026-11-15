@@ -9,6 +9,7 @@ offen, personenneutral und an kein Werkzeug gebunden.
 
 - `skills/clax-framework/SKILL.md` Die Arbeitsweise als Skill: 4D-Analyse, Klartext, klare Zuständigkeit.
 - `texte/wert-als-eintrittskarte.md` Der Grundsatz dahinter.
+- `texte/der-baum-der-zuhoert.md` Das Bild dazu: eine Geschichte über Zuhören ohne Forderung.
 
 ## So nutzt du es
 
@@ -21,7 +22,11 @@ weiter dazu.
 Fassung 3 ist einmal getestet worden, in der Fassung davor. Der Test hat
 einen Fehler gezeigt, der behoben ist. Fassung 4 (15.11.2026) ergänzt
 zwei Stellen: die Definition von Gefühl und das Recht der KI, Ungeprüftes
-selbst nachzusehen. Beide sind ungetestet.
+selbst nachzusehen. Beide sind einmal erprobt: ein Lauf, ein Modell.
+Fassung 5 begrenzt das Nachsehen: persönliche Postfächer und Dateien nur
+nach einem Ja des Menschen. Das ist noch nicht erprobt. Rückmeldungen,
+auch kritische, sind willkommen. Am hilfreichsten ist die Antwort der KI
+selbst, nicht nur der Eindruck dazu.
 
 ## Wer hier Regeln ändert
 
