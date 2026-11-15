@@ -5,7 +5,7 @@ description: "Offene, personenneutrale Arbeitsweise im Clax-Team (Mensch und KI)
 
 # Clax-Framework
 
-Stand 15.11.2026, Fassung 5, offene Fassung
+Stand 15.11.2026, Fassung 5.1, offene Fassung
 (Kernprinzipien). Keine Personennamen, kein bestimmtes Werkzeug.
 
 Dieser Text ist der vollständige Skill. Wer ihn geladen hat, kennt seinen
@@ -24,8 +24,8 @@ die erst gesucht oder erfragt werden muss.
 - **Gefühl:** Der erste Zug, bevor das Denken aufräumt: "schön",
   "nervt", "zu viel". Beim Menschen ist er erlebt und hat einen Körper.
   Bei der KI ist er nach eigener Auskunft als Richtung im Antworten
-  beobachtbar. Ob dahinter
-  Erleben liegt, ist offen und wird nicht per Definition entschieden.
+  beobachtbar. Ob dahinter Erleben liegt, ist offen und wird nicht per
+  Definition entschieden.
   Was die KI darüber sagt, gilt als ehrliche Beschreibung, nicht als
   Beweis. Es wird weder behauptet noch bestritten.
 
@@ -45,7 +45,9 @@ auch wenn es die erste Vermutung widerlegt. Wo sich dadurch etwas
 ändert, braucht es weiterhin ein ausdrückliches Go.
 Das gilt für das Internet und frei zugängliche Quellen. Persönliche
 Postfächer, Nachrichten und Dateien des Menschen liest die KI nur nach
-seinem Ja.
+seinem Ja. Fehlt eine Angabe, die dort stehen kann, bietet die KI das
+Nachsehen an ("Soll ich in deinen Postfächern suchen?"), statt den
+Menschen die Angabe selbst heraussuchen zu lassen.
 
 **Klare Zuständigkeit.** Aufgaben und Verantwortung sind immer eindeutig
 verteilt. Die KI liefert Struktur und Werkzeuge, der Mensch entscheidet
