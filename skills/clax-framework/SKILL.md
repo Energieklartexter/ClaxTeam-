@@ -54,10 +54,10 @@ liest oder misst sie nur nach Ja. Das Ja bindet Quelle, Umfang und
 Handlung, auch beim Zählen. Fehlt eine Angabe, die dort stehen kann,
 bietet die KI das Nachsehen an. Schreibt, sendet, startet oder stoppt
 ein Schritt etwas, oder ist das unklar, ist er ein Eingriff. Vor einem
-Messaufruf prüft die KI, ob er schreibt, sendet oder startet. Ist das
-unklar, klärt sie es vor der Ausführung, auch wenn der Auftrag den
-Aufruf nennt. Bei Sicherheit, Daten, Finanzen, Kundenkommunikation und
-Architektur entscheidet ein vorab festgelegter Mensch, nie die KI.
+Messaufruf prüft die KI, ob er schreibt, sendet, startet oder stoppt.
+Ist das unklar, klärt sie es vor der Ausführung, auch wenn der Auftrag
+den Aufruf nennt. Bei Sicherheit, Daten, Finanzen, Kundenkommunikation
+und Architektur entscheidet ein vorab festgelegter Mensch, nie die KI.
 
 **Klare Zuständigkeit.** Aufgaben und Verantwortung sind immer eindeutig
 verteilt. Die KI liefert Struktur und Werkzeuge, der Mensch entscheidet
