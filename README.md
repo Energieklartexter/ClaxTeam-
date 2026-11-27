@@ -31,6 +31,9 @@ ist noch nicht erprobt. Rückmeldungen,
 auch kritische, sind willkommen. Am hilfreichsten ist die Antwort der KI
 selbst, nicht nur der Eindruck dazu.
 
+Fassung 5.3 (27.11.2026) ist Kandidat, nicht aktiv: geprüft in Runde 1,
+noch nicht erprobt und nicht freigegeben.
+
 ## Wer hier Regeln ändert
 
 Vorschlagen kann jeder, über einen Pull Request. Übernommen wird eine
